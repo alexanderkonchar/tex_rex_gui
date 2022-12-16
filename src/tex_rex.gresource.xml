@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+    <gresource prefix="/tk/texrex/app">
+        <file preprocess="xml-stripblanks">tex_rex-window.ui</file>
+        <file preprocess="xml-stripblanks">gtk/help-overlay.ui</file>
+        <file preprocess="xml-stripblanks">icons/screenshot-recorded-symbolic.svg</file>
+        <file preprocess="xml-stripblanks">icons/arrow-into-box-symbolic.svg</file>
+        <file preprocess="xml-stripblanks">icons/copy-symbolic.svg</file>
+    </gresource>
+</gresources>

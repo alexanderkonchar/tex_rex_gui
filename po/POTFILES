@@ -1,0 +1,6 @@
+data/tk.texrex.app.desktop.in
+data/tk.texrex.app.appdata.xml.in
+data/tk.texrex.app.gschema.xml
+src/main.c
+src/tex_rex-window.c
+src/tex_rex-window.ui
